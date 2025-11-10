@@ -1,0 +1,122 @@
+[
+  {
+    "review_id": "TBT001",
+    "product_id": "Lego-City-60292",
+    "rating": 5,
+    "reviewer_name": "Hannah Wells",
+    "review_location": "London, UK",
+    "review_date": "2025-02-12",
+    "review_summary": "Fantastic value and quality!",
+    "review_text": "Bought the new Lego City set for my 7-year-old and he absolutely loves it! The instructions were clear, all pieces were present, and the quality is excellent as always. Quick delivery from the store too!",
+    "verified_purchase": true,
+    "reviewer_avatar_url": "https://i.pravatar.cc/150?img=1"
+  },
+  {
+    "review_id": "TBT002",
+    "product_id": "Doll-House-Classic",
+    "rating": 4,
+    "reviewer_name": "Noah Carter",
+    "review_location": "Toronto, Canada",
+    "review_date": "2025-01-28",
+    "review_summary": "Great dollhouse, tricky assembly",
+    "review_text": "The dollhouse itself is sturdy and beautiful, my daughter was thrilled. However, the assembly took longer than expected due to unclear diagrams. Once built, it's a great toy.",
+    "verified_purchase": true,
+    "reviewer_avatar_url": "https://i.pravatar.cc/150?img=2"
+  },
+  {
+    "review_id": "TBT003",
+    "product_id": "Remote-Car-Monster",
+    "rating": 5,
+    "reviewer_name": "Zara Malik",
+    "review_location": "Dubai, UAE",
+    "review_date": "2025-01-20",
+    "review_summary": "Super fun monster truck!",
+    "review_text": "This remote control truck is fast and durable! We've taken it off-road a few times and it handles bumps and grass easily. Battery life is decent, but we bought an extra for continuous play.",
+    "verified_purchase": true,
+    "reviewer_avatar_url": "https://i.pravatar.cc/150?img=3"
+  },
+  {
+    "review_id": "TBT004",
+    "product_id": "Puzzle-1000pc-Galaxy",
+    "rating": 3,
+    "reviewer_name": "Oliver Trent",
+    "review_location": "Melbourne, Australia",
+    "review_date": "2024-12-05",
+    "review_summary": "Good puzzle, one piece missing",
+    "review_text": "The puzzle picture is gorgeous and the pieces fit well. Disappointed that one corner piece was missing, which is a common issue, but still frustrating for a 1000-piece set.",
+    "verified_purchase": false,
+    "reviewer_avatar_url": "https://i.pravatar.cc/150?img=4"
+  },
+  {
+    "review_id": "TBT005",
+    "product_id": "Sensory-Block-Set",
+    "rating": 5,
+    "reviewer_name": "Emily Park",
+    "review_location": "Seoul, South Korea",
+    "review_date": "2024-12-02",
+    "review_summary": "Perfect for toddlers!",
+    "review_text": "Love these sensory blocks! They are soft, easy to grip for little hands, and the different textures and sounds keep my 1-year-old entertained. Highly recommend for early development.",
+    "verified_purchase": true,
+    "reviewer_avatar_url": "https://i.pravatar.cc/150?img=5"
+  },
+  {
+    "review_id": "TBT006",
+    "product_id": "Action-Figure-Hero",
+    "rating": 4,
+    "reviewer_name": "Jason Lin",
+    "review_location": "Singapore",
+    "review_date": "2024-11-22",
+    "review_summary": "Cool figure, wish it had more articulation",
+    "review_text": "The sculpt and paint job are amazing. It looks great on display, but for actual play, the articulation is a bit limited compared to other figures in the same price range.",
+    "verified_purchase": true,
+    "reviewer_avatar_url": "https://i.pravatar.cc/150?img=6"
+  },
+  {
+    "review_id": "TBT007",
+    "product_id": "Board-Game-Strategy",
+    "rating": 5,
+    "reviewer_name": "Sophia Nguyen",
+    "review_location": "Hanoi, Vietnam",
+    "review_date": "2024-11-10",
+    "review_summary": "Excellent family game night choice!",
+    "review_text": "This strategy board game is a hit with my family. It's complex enough for adults but easy to teach to older kids. The components are high quality.",
+    "verified_purchase": true,
+    "reviewer_avatar_url": "https://i.pravatar.cc/150?img=7"
+  },
+  {
+    "review_id": "TBT008",
+    "product_id": "Wooden-Train-Set",
+    "rating": 5,
+    "reviewer_name": "Rahul Desai",
+    "review_location": "Mumbai, India",
+    "review_date": "2024-10-26",
+    "review_summary": "Classic toy, timeless fun",
+    "review_text": "You can't go wrong with a classic wooden train set. This one connects perfectly with other major brands and is very well made. Will last for years.",
+    "verified_purchase": true,
+    "reviewer_avatar_url": "https://i.pravatar.cc/150?img=8"
+  },
+  {
+    "review_id": "TBT009",
+    "product_id": "Slime-Kit-DIY",
+    "rating": 2,
+    "reviewer_name": "Ben Turner",
+    "review_location": "Los Angeles, USA",
+    "review_date": "2024-10-11",
+    "review_summary": "Messy and didn't work well",
+    "review_text": "The slime kit was a disappointment. It was incredibly messy, stained my table, and the final product was more of a sticky liquid than actual slime, even after following the instructions carefully.",
+    "verified_purchase": true,
+    "reviewer_avatar_url": "https://i.pravatar.cc/150?img=9"
+  },
+  {
+    "review_id": "TBT010",
+    "product_id": "Outdoor-Scooter-Pro",
+    "rating": 4,
+    "reviewer_name": "Layla Brown",
+    "review_location": "Auckland, New Zealand",
+    "review_date": "2024-09-29",
+    "review_summary": "Sturdy scooter, good ride",
+    "review_text": "Great scooter for my teenager. It feels solid and the ride is smooth. Lost one star because the folding mechanism is a little stiff initially.",
+    "verified_purchase": true,
+    "reviewer_avatar_url": "https://i.pravatar.cc/150?img=10"
+  }
+]
