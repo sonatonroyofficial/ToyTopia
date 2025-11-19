@@ -5,7 +5,7 @@ const getEnvValue = (...keys) => {
   for (const key of keys) {
     const value =
       import.meta.env[key] ??
-      // eslint-disable-next-line no-undef
+
       (typeof process !== "undefined" ? process.env?.[key] : undefined);
     if (value && value !== "undefined") {
       return value.trim();
@@ -34,6 +34,10 @@ const firebaseConfig = {
   ),
   appId: getEnvValue("VITE_FIREBASE_APP_ID", "REACT_APP_FIREBASE_APP_ID"),
 };
+
+// const missingEntries = Object.entries(firebaseConfig)
+//   .filter(([, value]) => !value)
+//   .map(([key]) => key);
 
 const missingEntries = Object.entries(firebaseConfig)
   .filter(([, value]) => !value)
