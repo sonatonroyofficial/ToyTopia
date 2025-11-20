@@ -4,7 +4,7 @@ ToyTopia is a vibrant, user-friendly online marketplace for kids’ toys, design
 
 🚀 Live Demo
 
-🔗 Live URL: https://melodic-pika-2ff74e.netlify.app/
+🔗 Live URL: https://melodic-pika-2ff74e.netlify.app/ <br>
 🔗 GitHub Repository: https://github.com/sonatonroyofficial/ToyTopia
 
 🎯 Project Purpose
