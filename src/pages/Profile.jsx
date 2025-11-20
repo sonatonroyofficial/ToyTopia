@@ -66,7 +66,7 @@ const Profile = () => {
 
         <div className="bg-white rounded-2xl shadow-xl overflow-hidden">
           {/* Profile Header */}
-          <div className="bg-gradient-to-r from-pink-500 to-blue-500 px-6 py-8">
+          <div className="bg-gradient-to-r from-orange-400 to-pink-300 px-6 py-8">
             <div className="flex flex-col md:flex-row items-center space-y-4 md:space-y-0 md:space-x-6">
               <div className="relative">
                 {currentUser.photoURL ? (

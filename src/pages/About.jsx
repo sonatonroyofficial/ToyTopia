@@ -177,7 +177,7 @@ const About = () => {
       </section>
 
       {/* Contact CTA */}
-      <section className="py-16 bg-gradient-to-r from-pink-500 to-blue-500 text-white">
+      <section className="py-16 bg-gradient-to-r from-yellow-300 to-orange-500 text-white">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-3xl font-bold mb-4" data-aos="fade-up">
             Have Questions?
@@ -187,13 +187,13 @@ const About = () => {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="mailto:info@toytopia.com"
+              href="mailto:official@toytopia.com"
               className="inline-flex items-center px-6 py-3 bg-white text-pink-600 font-semibold rounded-lg hover:bg-gray-100 transition-colors"
             >
               Contact Us
             </a>
             <a
-              href="tel:+15551234567"
+              href="tel:+8801306935335"
               className="inline-flex items-center px-6 py-3 border-2 border-white text-white font-semibold rounded-lg hover:bg-white hover:text-pink-600 transition-all duration-200"
             >
               Call Us
