@@ -34,7 +34,7 @@ function App() {
         console.log('AOS not available:', error);
       }
     };
-    
+
     // Add a small delay to ensure DOM is ready
     const timer = setTimeout(initAOS, 100);
     return () => clearTimeout(timer);
@@ -66,7 +66,7 @@ function App() {
             </Routes>
           </main>
           <Footer />
-          <Toaster 
+          <Toaster
             position="top-right"
             toastOptions={{
               duration: 4000,

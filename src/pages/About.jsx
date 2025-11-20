@@ -40,7 +40,7 @@ const About = () => {
   return (
     <div className="min-h-screen bg-white">
       {/* Hero Section */}
-      <section className="bg-gradient-to-r from-pink-500 to-blue-500 text-white py-20">
+      <section className="bg-gradient-to-r from-orange-400 to-pink-300 text-white py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h1 className="text-4xl md:text-6xl font-bold mb-6" data-aos="fade-up">
             About ToyTopia
@@ -77,17 +77,18 @@ const About = () => {
                 Our Story
               </h2>
               <p className="text-lg text-gray-600 mb-6">
-                ToyTopia was born from a simple idea: what if we could create a platform that not only 
-                brings joy to children but also supports local toy sellers and builds stronger communities?
+                ToyTopia started with a simple vision: to bring joyful,
+                 high-quality toys to families while uplifting local toy sellers and creating a stronger community marketplace.
               </p>
               <p className="text-lg text-gray-600 mb-6">
-                Founded in 2024, we've grown from a small local initiative to a trusted marketplace 
-                where families can discover amazing toys while supporting local businesses. Every toy 
-                on our platform is carefully selected for quality, safety, and educational value.
+                Founded in 2022, we’ve grown from a small local project into a trusted online destination where parents can confidently find safe,
+                 durable, and enriching toys. Our team carefully selects every product to ensure it meets our standards for quality, safety, and
+                  educational value.
               </p>
               <p className="text-lg text-gray-600">
-                We believe that play is essential for children's development, and every child deserves 
-                access to toys that spark imagination, creativity, and joy.
+                At ToyTopia, we believe play is a powerful part of childhood.
+                 That’s why we’re dedicated to making sure every child has access to toys that inspire imagination,
+                  encourage creativity, and bring true happiness.
               </p>
             </div>
             <div className="relative" data-aos="fade-left">
@@ -153,9 +154,9 @@ const About = () => {
             Our Mission
           </h2>
           <p className="text-xl text-gray-600 leading-relaxed mb-8" data-aos="fade-up" data-aos-delay="100">
-            "To create a vibrant marketplace where families can discover amazing toys that spark 
-            imagination and creativity, while supporting local sellers and building stronger communities. 
-            We believe every child deserves access to quality toys that bring joy and support their development."
+            Our mission is to build a vibrant marketplace where families can discover amazing toys that spark imagination
+             and creativity, while supporting local sellers and strengthening communities. We believe every child
+              deserves access to high-quality toys that spark joy, inspire growth, and support their overall development.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center" data-aos="fade-up" data-aos-delay="200">
             <Link
