@@ -92,16 +92,16 @@ const Footer = () => {
               <div className="flex items-center space-x-3">
                 <MapPin className="h-4 w-4 text-pink-500 flex-shrink-0" />
                 <span className="text-gray-300 text-sm">
-                  Dhanmondi, Dhaka, Bangladesh
+                  123 Toy Street, Play City, PC 12345
                 </span>
               </div>
               <div className="flex items-center space-x-3">
                 <Phone className="h-4 w-4 text-pink-500 flex-shrink-0" />
-                <span className="text-gray-300 text-sm">01306935335</span>
+                <span className="text-gray-300 text-sm">+1 (555) 123-4567</span>
               </div>
               <div className="flex items-center space-x-3">
                 <Mail className="h-4 w-4 text-pink-500 flex-shrink-0" />
-                <span className="text-gray-300 text-sm">official@toytopia.com</span>
+                <span className="text-gray-300 text-sm">info@toytopia.com</span>
               </div>
             </div>
           </div>
